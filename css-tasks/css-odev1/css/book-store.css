@@ -1,0 +1,48 @@
+#header {
+    text-align: center;
+    font-family: 'Karantina', cursive;
+}
+#navbar {
+    text-align: center;
+    font-family: 'Karantina', cursive;
+    word-spacing: 5px;
+}
+#sections {
+    text-align: center;
+    font-family: 'Karantina', cursive;
+}
+.arti {
+    text-align: center;
+    font-family: 'Karantina', cursive;
+    list-style-position:inside ;
+}
+.sections {
+    text-align: center;
+    font-family: 'Karantina', cursive;
+    
+}
+.img {
+    width: 220px;
+    height: 350px;
+}
+.ttl {
+    font-size: 1.3em;
+    color: teal;
+    font-style:oblique;
+    font-weight: bolder;
+}
+ol {
+    font-weight: bolder;
+}
+p {
+    font-weight: normal;
+}
+.ttl2 {
+    color: gray;
+}
+.ttl3 {
+    color: yellowgreen;
+}
+.ttl4 {
+    color: maroon;
+}
