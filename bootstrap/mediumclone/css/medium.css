@@ -1,0 +1,40 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid rgba(41, 41, 41, 41);
+}
+.border-bottom-2 {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+.fas {
+    font-size: 10px;
+    margin-left: 0.5em;
+}
+.ellipsis {
+    line-height: 1em;
+    max-height: 2em;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+}
+.asd-but > li {
+    margin-top: 8px;
+    color: rgba(230, 230, 230, 1);
+}
+
+.bko {
+    margin-bottom: 3em;
+}
+#medium-img {
+    margin-top: -2em;
+    margin-left: -1em;
+}
