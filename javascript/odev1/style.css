@@ -1,0 +1,17 @@
+body {
+    font-weight: 600;
+    background-image: url(https://picsum.photos/id/820/1400/900?grayscale&blur=2);
+    color:rgb(238, 221, 196)
+}
+
+#name, #firstMonth, #firstClock, #firstDay {
+    color: #ffc107;
+}
+#years {
+    color: #ffbf00;
+}
+
+/* .rainbow {
+    background-image: linear-gradient(to left, rgb(214, 196, 214), rgb(120, 98, 136), rgb(114, 114, 201), rgb(95, 122, 95), rgb(187, 187, 114), rgb(214, 169, 85), rgb(243, 105, 105));   -webkit-background-clip: text;
+    color: transparent;
+} */
